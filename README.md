@@ -110,7 +110,7 @@ In an era where AI-generated content is becoming increasingly sophisticated, Pro
 **Windows Users:**
 ```cmd
 # Clone the repository
-git clone https://github.com/yourusername/provenance.git
+git clone https://github.com/Faisalhakimi22/Provenance.git
 cd provenance
 
 # Run automated setup
@@ -120,7 +120,7 @@ start.bat
 **Linux/macOS Users:**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/provenance.git
+git clone https://github.com/Faisalhakimi22/Provenance.git
 cd provenance
 
 # Make script executable and run
@@ -578,10 +578,10 @@ We believe in open, accessible education technology that benefits everyone in th
 
 ## 📊 Project Statistics
 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/provenance?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/yourusername/provenance?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/provenance?style=for-the-badge)
-![License](https://img.shields.io/github/license/yourusername/provenance?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Faisalhakimi22/Provenance?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/Faisalhakimi22/Provenance?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/Faisalhakimi22/Provenance?style=for-the-badge)
+![License](https://img.shields.io/github/license/Faisalhakimi22/Provenance?style=for-the-badge)
 
 ---
 
